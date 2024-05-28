@@ -1,37 +1,13 @@
-## Welcome to My Personal Pages
+## Xiansong Fang
+### Affiliation
+School of Electronics, Peking University
 
-You can use the [editor on GitHub](https://github.com/fangxiansong/fangxiansong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interest
+Optical fiber communication systems and networks are critical infrastructures of the information society. He focuses on low-cost short-reach optical interconnects and high-performance long-haul transmission. He has authored or co-authored over 30 academic publications in peer-reviewed journals and conferences, including 12 refereed journal papers,
+7 post-deadline papers in ECOC/ACP/OECC, 2 top-scored paper in OFC, 1 best paper and 2 best-student papers in ACP. He also published one invited full-length paper in Journal of Lightwave Technology for OFC top-scored paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fangxiansong/fangxiansong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Information
+fangxiansong@pku.edu.cn
